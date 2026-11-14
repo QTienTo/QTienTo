@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner có ảnh: file assets/banner.png trong repo này, không dùng màu trơn nữa -->
+<!-- Banner có ảnh: file assets/banner.gif trong repo này, không dùng màu trơn nữa -->
 <!-- Lựa chọn khác, đổi 1 dòng này là xong:
   B) Ảnh thật Unsplash, màn hình code tối: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80&fm=jpg
   C) Ảnh thật Unsplash, MacBook code: https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200&q=80&fm=jpg
 -->
-![Banner Tô Quyết Tiến](assets/banner.png)
+![Banner Tô Quyết Tiến](assets/banner.gif)
 
 # Tô Quyết Tiến
 
